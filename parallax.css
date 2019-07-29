@@ -1,0 +1,77 @@
+@charset "UTF-8";
+
+body,
+html {
+    height: 100%;
+    margin: 0;
+    letter-spacing: 2px;
+    font-size: 40px;
+}
+
+div {
+    box-sizing: border-box;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 5%;
+}
+
+.parallax-bg {
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50%;
+}
+
+.img-bg-1 {
+    background-image: url(https://uchutankentai.com/wp-content/uploads/2016/12/PIA19411-Mercury-WaterIce-Radar-MDIS-Messenger-20150416-1024x558.jpg);
+}
+.img-bg-2 {
+    background-image: url(https://i.gzn.jp/img/2017/02/09/computer-survive-surface-of-venus/00.jpg);
+}
+.img-bg-3 {
+    background-image: url(https://www.getc.co.jp/wp-content/uploads/2017/12/-2-e1519191156332.jpg);
+}
+.img-bg-4 {
+    background-image: url(https://assets.media-platform.com/gizmodo/dist/images/2019/02/27/190227_mars-w1280.jpg);
+}
+.img-bg-5 {
+    background-image: url(https://www.nasa.gov/sites/default/files/thumbnails/image/pia22688.jpg);
+}
+.img-bg-6 {
+    background-image: url(https://photojournal.jpl.nasa.gov/jpeg/PIA21046.jpg);
+}
+.img-bg-7 {
+    background-image: url(https://news.mynavi.jp/article/20180501-624836/images/001l.jpg);
+}
+.img-bg-8 {
+    background-image: url(https://blogimg.goo.ne.jp/user_image/73/3b/d7dcbe1eb3ce0f9441ecad1dbe0a7358.jpg);
+}
+
+.scrollbox1 {
+    background-color: #3261AB;
+}
+.scrollbox2 {
+    background-color: #6A8CC7;
+}
+.scrollbox3 {
+    background-color: #007FB1;
+}
+.scrollbox4 {
+    background-color: #44A5CB;
+}
+.scrollbox5 {
+    background-color: #3261AB;
+}
+.scrollbox6 {
+    background-color: #6A8CC7;
+}
+.scrollbox7 {
+    background-color: #007FB1;
+}
+.scrollbox8 {
+    background-color: #44A5CB;
+}
