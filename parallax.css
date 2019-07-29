@@ -75,3 +75,19 @@ div {
 .scrollbox8 {
     background-color: #44A5CB;
 }
+
+.parallax-wrapper {
+  margin: 0 auto;
+  width: 935px;
+  height: auto;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.parallax-wrapper div {
+  width: 293px;
+  height: 293px;
+  background-color: #ff3d00;
+  margin: 0 0 28px 0;
+}
